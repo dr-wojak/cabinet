@@ -194,12 +194,11 @@ Ackoff, R.L. (1981). Creating the Corporate Future
 
 The operational solutions exist and are field-tested globally. What remains is the simplest and most difficult thing: the choice to act.
 
-To the current Irish Cabinet: You have inherited a system designed for drift. You can choose to perpetuate it through continued deflection and procedural burial. Or you can choose to break the cycle—to acknowledge the failures, engage with the evidence, and implement the structural reforms that genuine democratic governance requires.
-The accountability is now mapped. The mirror is held up. The decision is yours.
-But understand this clearly: continued inaction is itself a choice, and it will be documented, analyzed, and held to account—legally, historically, and democratically.
-The archive is permanent. The evidence is public. The structures of accountability may be slow, but they are inexorable.
-Choose learning over drift. Choose integrity over theater. Choose genuine governance over procedural performance.
-The time for choice is now.
+To the current Irish Cabinet: You have inherited a system designed for drift. You can choose to perpetuate it through continued deflection and procedural burial. Or you can choose to break the cycle—to acknowledge the failures, engage with the evidence, and implement the structural reforms that genuine democratic governance requires.  
+The accountability is now mapped. The mirror is held up. The decision is yours.  
+But understand this clearly: continued inaction is itself a choice, and it will be documented, analyzed, and held to account—legally, historically, and democratically.  
+The evidence is now public. The structures of accountability may be slow, but they are inexorable.  
+Choose genuine governance over procedural performance. The time for choice is now.
 
 Contributions and issues:
 - If you wish to submit supporting material, open an Issue with a clear description and suggested evidence file. (Follow the repository's contribution guidelines.)
