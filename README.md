@@ -228,6 +228,6 @@ This repository and the primary strategic mirror document are released under CC0
 This README mirrors and distills the full "Cabinet Governance Mirror 2025" strategic analysis. The full dossier, supporting evidence and legal materials are in the repository. The conclusions are straightforward: the evidence is comprehensive, the remedies are well known and field-tested internationally, and the legal avenues are available. The remaining question is political will.
 
 *"A governance system that feeds on contradiction survives by converting signal to drift. Sustainable reform requires refounding structure itself: embedding protected epistemic corridors where contradiction can flow, transform, and exit as adaptive correction—not frozen residue."*
-— From Annex IV: Compound Failure Modes and Institutional Double Binds
+— From [Annex IV: Compound Failure Modes and Institutional Double Binds](https://drive.google.com/file/d/1OS8IJbt2ZPH9KknZk3wHRzw_b6ekgmpQ)
 
 Choose learning over drift. Choose integrity over theatre.
