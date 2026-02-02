@@ -146,17 +146,22 @@ GitHub ecosystem (related repos):
 2007: INSEAD presentation, Fontainebleau (pulled due to Darfur)
 2008: DFA briefings begin, Minister Martin engagement starts
 2009: Irish Aid presentation, Limerick (February 5)
+
 2020: WHO correspondence re COVID-19 (March 17)
 2020: Pandemic response failure (HSE awaiting political clearance)
 2024: Email #71 comprehensive review (August 14)
 2024: FIN-MO-03632-2024 acknowledgment (August 6)
 2024: DFA-TMO-05256-2024 "concise summary" request (August 23)
 2024: Pre-litigation notice issued (September 12)
+
 2025: Storm Éowyn breakdown (January)
-2025: Final Summary of Enquiry (definitive documentation)
+2025: Formal Complaint (June)
+2025: Final Summary of Enquiry (definitive documentation, Memoranda)
+
 2026: This strategic mirror document (February 2)
 
 ## Theoretical References
+
 Organizational Learning:
 
 Argyris, C. & Schön, D. (1978). Organizational Learning: A Theory of Action Perspective
@@ -221,5 +226,8 @@ This repository and the primary strategic mirror document are released under CC0
 ## Final note
 
 This README mirrors and distills the full "Cabinet Governance Mirror 2025" strategic analysis. The full dossier, supporting evidence and legal materials are in the repository. The conclusions are straightforward: the evidence is comprehensive, the remedies are well known and field-tested internationally, and the legal avenues are available. The remaining question is political will.
+
+*"A governance system that feeds on contradiction survives by converting signal to drift. Sustainable reform requires refounding structure itself: embedding protected epistemic corridors where contradiction can flow, transform, and exit as adaptive correction—not frozen residue."*
+— From Annex IV: Compound Failure Modes and Institutional Double Binds
 
 Choose learning over drift. Choose integrity over theatre.
