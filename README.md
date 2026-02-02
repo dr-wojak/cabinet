@@ -137,20 +137,25 @@ Primary legal avenues documented:
 <a id="evidence-base"></a>
 ## Evidence base & repository map
 
-Key documentary anchors (representative):
+**Acknowledgments Without Action (2024):**
+ - DOT-TH-03856-2024 (Taoiseach Harris, June 19, 2024)
+ - DOD-MO-01206-2024 (Department of Defence, September 4, 2024)
+ - Tánaiste Martin's office (September 4, 2024)
+
+**Other documentary anchors (representative):**
 - Email #71 (14 Aug 2024)
 - FIN-MO-03632-2024 (08 Aug 2024) — acknowledged fax to Minister for Finance
 - DFA-TMO-05256-2024 (23 & 30 Aug 2024) — Department of Foreign Affairs receipt
 - Summary of Enquiry (2024–2025)
 - Storm Éowyn operational chronology (Jan 2025)
 
-Google Drive & related repositories (as included in the dossier):
+**Related repositories (as included in the dossier):**
 - Formal Complaint Repository (drive folder)
 - Memoranda & Support Material (drive folder)
 - Main repository of working documents (drive folder)
 - Historical archive (drive folder)
 
-GitHub ecosystem (related repos):
+**GitHub ecosystem (related repos):**
 - Redundancy Awareness: https://github.com/dr-wojak/redundancy-awareness  
 - Governmentality 2025: https://github.com/dr-wojak/governmentality-2025
 - Legal: https://github.com/dr-wojak/legal
