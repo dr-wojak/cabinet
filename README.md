@@ -150,10 +150,10 @@ Primary legal avenues documented:
 - Storm Éowyn operational chronology (Jan 2025)
 
 **Related repositories (as included in the dossier):**
-- Formal Complaint Repository (drive folder)
-- Memoranda & Support Material (drive folder)
-- Main repository of working documents (drive folder)
-- Historical archive (drive folder)
+ - Formal Complaint Repository: https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
+ - Memorandum E Support Material: https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy
+ - Main Repository: https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g
+ - Historical Repository: https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh
 
 **GitHub ecosystem (related repos):**
 - Redundancy Awareness: https://github.com/dr-wojak/redundancy-awareness  
