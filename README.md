@@ -119,6 +119,7 @@ Google Drive & related repositories (as included in the dossier):
 - Historical archive (drive folder)
 
 GitHub ecosystem (related repos):
+- Redundancy Awareness: https://github.com/dr-wojak/redundancy-awareness  
 - Governmentality 2025: https://github.com/dr-wojak/governmentality-2025
 - Legal: https://github.com/dr-wojak/legal
 - Press: https://github.com/dr-wojak/press
