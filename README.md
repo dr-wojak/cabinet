@@ -140,6 +140,60 @@ GitHub ecosystem (related repos):
 - /media — press kits, public-facing materials for transparency campaigns.
 - /archive — historical timeline and raw source materials.
 
+## Timeline of Critical Events
+2006: Initial presentation, St. Luke's, Drumcondra (June)
+2007: INSEAD presentation, Fontainebleau (pulled due to Darfur)
+2008: DFA briefings begin, Minister Martin engagement starts
+2009: Irish Aid presentation, Limerick (February 5)
+2020: WHO correspondence re COVID-19 (March 17)
+2020: Pandemic response failure (HSE awaiting political clearance)
+2024: Email #71 comprehensive review (August 14)
+2024: FIN-MO-03632-2024 acknowledgment (August 6)
+2024: DFA-TMO-05256-2024 "concise summary" request (August 23)
+2024: Pre-litigation notice issued (September 12)
+2025: Storm Éowyn breakdown (January)
+2025: Final Summary of Enquiry (definitive documentation)
+2026: This strategic mirror document (February 2)
+
+## Theoretical References
+Organizational Learning:
+
+Argyris, C. & Schön, D. (1978). Organizational Learning: A Theory of Action Perspective
+Senge, P. (1990). The Fifth Discipline
+
+Psychology:
+
+Bateson, G. (1972). Steps to an Ecology of Mind
+Festinger, L. (1957). A Theory of Cognitive Dissonance
+Lewin, K. (1951). Field Theory in Social Science
+Zeigarnik, B. (1927). "On Finished and Unfinished Tasks"
+
+Political Economy:
+
+Hirschman, A.O. (1970). Exit, Voice, and Loyalty
+Lasch, C. (1979). The Culture of Narcissism
+Mbembe, A. (2003). "Necropolitics"
+
+Systems Dynamics:
+
+Meadows, D. (2008). Thinking in Systems
+Forrester, J.W. (1961). Industrial Dynamics
+
+Operations Research:
+
+Churchman, C.W. (1968). The Systems Approach
+Ackoff, R.L. (1981). Creating the Corporate Future
+
+
+The operational solutions exist and are field-tested globally. What remains is the simplest and most difficult thing: the choice to act.
+
+To the current Irish Cabinet: You have inherited a system designed for drift. You can choose to perpetuate it through continued deflection and procedural burial. Or you can choose to break the cycle—to acknowledge the failures, engage with the evidence, and implement the structural reforms that genuine democratic governance requires.
+The accountability is now mapped. The mirror is held up. The decision is yours.
+But understand this clearly: continued inaction is itself a choice, and it will be documented, analyzed, and held to account—legally, historically, and democratically.
+The archive is permanent. The evidence is public. The structures of accountability may be slow, but they are inexorable.
+Choose learning over drift. Choose integrity over theater. Choose genuine governance over procedural performance.
+The time for choice is now.
+
 Contributions and issues:
 - If you wish to submit supporting material, open an Issue with a clear description and suggested evidence file. (Follow the repository's contribution guidelines.)
 - Sensitive or legally privileged material should be disclosed via secured channels; follow instructions in CONTRIBUTING.md.
