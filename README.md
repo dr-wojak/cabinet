@@ -163,30 +163,30 @@ GitHub ecosystem (related repos):
 
 ## Theoretical References
 
-Organizational Learning:
+**Organizational Learning:**
 
 Argyris, C. & Schön, D. (1978). Organizational Learning: A Theory of Action Perspective  
 Senge, P. (1990). The Fifth Discipline
 
-Psychology:
+**Psychology:**
 
 Bateson, G. (1972). Steps to an Ecology of Mind  
 Festinger, L. (1957). A Theory of Cognitive Dissonance  
 Lewin, K. (1951). Field Theory in Social Science  
 Zeigarnik, B. (1927). On Finished and Unfinished Tasks  
 
-Political Economy:
+**Political Economy:**
 
 Hirschman, A.O. (1970). Exit, Voice, and Loyalty  
 Lasch, C. (1979). The Culture of Narcissism  
 Mbembe, A. (2003). Necropolitics  
 
-Systems Dynamics:
+**Systems Dynamics:**
 
 Meadows, D. (2008). Thinking in Systems  
 Forrester, J.W. (1961). Industrial Dynamics  
 
-Operations Research:
+**Operations Research:**
 
 Churchman, C.W. (1968). The Systems Approach  
 Ackoff, R.L. (1981). Creating the Corporate Future  
