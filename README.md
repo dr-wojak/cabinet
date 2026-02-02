@@ -36,7 +36,7 @@ Core outcome: Continued inaction is itself a deliberate policy choice with legal
 ## Core thesis
 
 The Irish State has evolved a governance architecture that:
-1. Acknowledges expert intelligence without activating it (procedural theater)
+1. Acknowledges expert intelligence without activating it (procedural theatre)
 2. Encodes antinomic/contradictory ministerial roles that create impossible mandates
 3. Lacks protected epistemic corridors for technical correction
 4. Systematically prevents institutional learning (deutero-binding)
