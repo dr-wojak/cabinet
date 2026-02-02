@@ -164,31 +164,31 @@ GitHub ecosystem (related repos):
 
 Organizational Learning:
 
-Argyris, C. & Schön, D. (1978). Organizational Learning: A Theory of Action Perspective
+Argyris, C. & Schön, D. (1978). Organizational Learning: A Theory of Action Perspective  
 Senge, P. (1990). The Fifth Discipline
 
 Psychology:
 
-Bateson, G. (1972). Steps to an Ecology of Mind
-Festinger, L. (1957). A Theory of Cognitive Dissonance
-Lewin, K. (1951). Field Theory in Social Science
-Zeigarnik, B. (1927). "On Finished and Unfinished Tasks"
+Bateson, G. (1972). Steps to an Ecology of Mind  
+Festinger, L. (1957). A Theory of Cognitive Dissonance  
+Lewin, K. (1951). Field Theory in Social Science  
+Zeigarnik, B. (1927). "On Finished and Unfinished Tasks"  
 
 Political Economy:
 
-Hirschman, A.O. (1970). Exit, Voice, and Loyalty
-Lasch, C. (1979). The Culture of Narcissism
-Mbembe, A. (2003). "Necropolitics"
+Hirschman, A.O. (1970). Exit, Voice, and Loyalty  
+Lasch, C. (1979). The Culture of Narcissism  
+Mbembe, A. (2003). "Necropolitics"  
 
 Systems Dynamics:
 
-Meadows, D. (2008). Thinking in Systems
-Forrester, J.W. (1961). Industrial Dynamics
+Meadows, D. (2008). Thinking in Systems  
+Forrester, J.W. (1961). Industrial Dynamics  
 
 Operations Research:
 
-Churchman, C.W. (1968). The Systems Approach
-Ackoff, R.L. (1981). Creating the Corporate Future
+Churchman, C.W. (1968). The Systems Approach  
+Ackoff, R.L. (1981). Creating the Corporate Future  
 
 
 The operational solutions exist and are field-tested globally. What remains is the simplest and most difficult thing: the choice to act.
