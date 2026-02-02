@@ -141,6 +141,7 @@ GitHub ecosystem (related repos):
 - /archive — historical timeline and raw source materials.
 
 ## Timeline of Critical Events
+
 2006: Initial presentation, St. Luke's, Drumcondra (June)
 2007: INSEAD presentation, Fontainebleau (pulled due to Darfur)
 2008: DFA briefings begin, Minister Martin engagement starts
