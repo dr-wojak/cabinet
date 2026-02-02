@@ -27,7 +27,7 @@ License: CC0 1.0 Universal (Public Domain)
 <a id="executive-summary"></a>
 ## Executive summary
 
-This repository hosts the "Cabinet Analysis 2025" — a nineteen-year strategic analysis (2006–2025) documenting repeated receipt of Operations Research (O.R.) intelligence by successive Irish governments and the systematic pattern of acknowledgement without activation. The analysis maps failures onto the contemporary Cabinet, identifies antinomic roles and double binds that produce paralysis, and sets out legal, institutional and operational remedies to restore epistemic integrity and institutional learning.
+This repository hosts the "Cabinet Analysis 2025" repository: a nineteen-year strategic analysis (2006–2025) documenting repeated receipt of Operations Research (O.R.) intelligence by successive Irish governments and the systematic pattern of acknowledgement without activation. The analysis maps failures onto the contemporary Cabinet, identifies antinomic roles and double binds that produce paralysis, and sets out legal, institutional and operational remedies to restore epistemic integrity and institutional learning.
 
 Core outcome: Continued inaction is itself a deliberate policy choice with legal, moral and constitutional consequences. This project documents the evidence, the theory, and a staged roadmap for corrective action.
 
