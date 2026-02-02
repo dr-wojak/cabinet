@@ -142,20 +142,20 @@ GitHub ecosystem (related repos):
 
 ## Timeline of Critical Events
 
-2006: Initial presentation, St. Luke's, Drumcondra (June)
-2007: INSEAD presentation, Fontainebleau (pulled due to Darfur)
-2008: DFA briefings begin, Minister Martin engagement starts
+2006: Initial presentation, St. Luke's, Drumcondra (June)  
+2007: INSEAD presentation, Fontainebleau (pulled due to Darfur)  
+2008: DFA briefings begin, Minister Martin engagement starts  
 2009: Irish Aid presentation, Limerick (February 5)
 
-2020: WHO correspondence re COVID-19 (March 17)
-2020: Pandemic response failure (HSE awaiting political clearance)
-2024: Email #71 comprehensive review (August 14)
-2024: FIN-MO-03632-2024 acknowledgment (August 6)
-2024: DFA-TMO-05256-2024 "concise summary" request (August 23)
+2020: WHO correspondence re COVID-19 (March 17)  
+2020: Pandemic response failure (HSE awaiting political clearance)  
+2024: Email #71 comprehensive review (August 14)  
+2024: FIN-MO-03632-2024 acknowledgment (August 6)  
+2024: DFA-TMO-05256-2024 "concise summary" request (August 23)  
 2024: Pre-litigation notice issued (September 12)
 
-2025: Storm Éowyn breakdown (January)
-2025: Formal Complaint (June)
+2025: Storm Éowyn breakdown (January)  
+2025: Formal Complaint (June)  
 2025: Final Summary of Enquiry (definitive documentation, Memoranda)
 
 2026: This strategic mirror document (February 2)
