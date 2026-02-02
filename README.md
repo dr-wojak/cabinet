@@ -1,6 +1,6 @@
 # Cabinet Governance Mirror 2025
 
-Strategic mapping of documented systemic failures onto the current Irish Cabinet structure — a public-facing landing page for the Cabinet_Governance_Mirror_2025 project.
+Strategic mapping of documented systemic failures onto the current Irish Cabinet structure: a public-facing landing page for Cabinet-relevant links.
 
 Version: 1.0  
 Date: 2026-02-02  
