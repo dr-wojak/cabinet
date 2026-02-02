@@ -10,19 +10,20 @@ License: CC0 1.0 Universal (Public Domain)
 
 ## Table of Contents
 
-- Executive summary
-- Core thesis
-- Key findings
-- Immediate demands & targeted calls to action
-- Recommended remedial pathway (short, medium, long term)
-- Legal posture & litigation pathway
-- Evidence base & repository map
-- How to use this repository
-- Contact, authorship & attribution
-- License
+- [Executive summary](#executive-summary)
+- [Core thesis](#core-thesis)
+- [Key findings](#key-findings)
+- [Immediate demands & targeted calls to action](#immediate-demands)
+- [Recommended remedial pathway (short / medium / long term)](#recommended-remedial-pathway)
+- [Legal posture & litigation pathway](#legal-posture)
+- [Evidence base & repository map](#evidence-base)
+- [How to use this repository](#how-to-use)
+- [Contact, authorship & attribution](#contact-authorship)
+- [License](#license)
 
 ---
 
+<a id="executive-summary"></a>
 ## Executive summary
 
 This repository hosts the "Cabinet Governance Mirror 2025" — a nineteen-year strategic analysis (2006–2025) documenting repeated receipt of Operations Research (O.R.) intelligence by successive Irish governments and the systematic pattern of acknowledgement without activation. The analysis maps failures onto the contemporary Cabinet, identifies antinomic roles and double binds that produce paralysis, and sets out legal, institutional and operational remedies to restore epistemic integrity and institutional learning.
@@ -31,6 +32,7 @@ Core outcome: Continued inaction is itself a deliberate policy choice with legal
 
 ---
 
+<a id="core-thesis"></a>
 ## Core thesis
 
 The Irish State has evolved a governance architecture that:
@@ -43,6 +45,7 @@ This is not mere incompetence — it is governance by contradiction.
 
 ---
 
+<a id="key-findings"></a>
 ## Key findings (high level)
 
 - 19 years (2006–2025) of documented engagement with O.R. proposals.
@@ -55,6 +58,7 @@ This is not mere incompetence — it is governance by contradiction.
 
 ---
 
+<a id="immediate-demands"></a>
 ## Immediate demands & targeted calls to action
 
 To the Taoiseach, Tánaiste, Minister for Finance and all Cabinet ministers (summary):
@@ -68,6 +72,7 @@ A fuller, itemised set of demands is in the dossier ("Specific Demands" section 
 
 ---
 
+<a id="recommended-remedial-pathway"></a>
 ## Recommended remedial pathway (short / medium / long term)
 
 Phase 1 — Immediate (0–90 days)
@@ -84,6 +89,7 @@ Phase 4 — Institutional learning (ongoing)
 
 ---
 
+<a id="legal-posture"></a>
 ## Legal posture & litigation pathway
 
 Primary legal avenues documented:
@@ -96,6 +102,7 @@ This repository contains the curated legal evidence map, timelines, and named do
 
 ---
 
+<a id="evidence-base"></a>
 ## Evidence base & repository map
 
 Key documentary anchors (representative):
@@ -122,6 +129,7 @@ GitHub ecosystem (related repos):
 
 ---
 
+<a id="how-to-use"></a>
 ## How to use this repository
 
 - Landing page (this README) gives the narrative summary.
@@ -138,15 +146,17 @@ Contributions and issues:
 
 ---
 
+<a id="contact-authorship"></a>
 ## Contact, authorship & attribution
 
-Custodian: Accountability-Ireland Project
+Custodian: Accountability-Ireland Project  
 Primary contact channels are included in the dossier and within repository metadata. The lead author and contact details (as provided in the appendices) appear in the repository top-level metadata.
 
 For media enquiries, legal collaboration, academic partnerships, or to contribute resources for pilot projects, please refer to the CONTACT.md in this repository.
 
 ---
 
+<a id="license"></a>
 ## License
 
 This repository and the primary strategic mirror document are released under CC0 1.0 Universal (Public Domain). You are free to copy, modify and redistribute the material without restriction. Attribution is appreciated for traceability and scholarly use.
@@ -157,4 +167,4 @@ This repository and the primary strategic mirror document are released under CC0
 
 This README mirrors and distills the full "Cabinet Governance Mirror 2025" strategic analysis. The full dossier, supporting evidence and legal materials are in the repository. The conclusions are straightforward: the evidence is comprehensive, the remedies are well known and field-tested internationally, and the legal avenues are available. The remaining question is political will.
 
-Choose learning over drift. Choose integrity over theater.
+Choose learning over drift. Choose integrity over theatre.
