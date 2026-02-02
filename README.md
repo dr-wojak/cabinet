@@ -133,7 +133,6 @@ Primary legal avenues documented:
  - Enhanced whistleblower protections for technical advisors
 
 ---
----
 
 <a id="evidence-base"></a>
 ## Evidence base & repository map
