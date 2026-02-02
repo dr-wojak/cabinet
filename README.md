@@ -15,6 +15,7 @@ License: CC0 1.0 Universal (Public Domain)
 - [Key findings](#key-findings)
 - [Immediate demands & targeted calls to action](#immediate-demands)
 - [Recommended remedial pathway (short / medium / long term)](#recommended-remedial-pathway)
+- [Structural Reform](#structural-reform)
 - [Legal posture & litigation pathway](#legal-posture)
 - [Evidence base & repository map](#evidence-base)
 - [How to use this repository](#how-to-use)
@@ -26,7 +27,7 @@ License: CC0 1.0 Universal (Public Domain)
 <a id="executive-summary"></a>
 ## Executive summary
 
-This repository hosts the "Cabinet Governance Mirror 2025" — a nineteen-year strategic analysis (2006–2025) documenting repeated receipt of Operations Research (O.R.) intelligence by successive Irish governments and the systematic pattern of acknowledgement without activation. The analysis maps failures onto the contemporary Cabinet, identifies antinomic roles and double binds that produce paralysis, and sets out legal, institutional and operational remedies to restore epistemic integrity and institutional learning.
+This repository hosts the "Cabinet Analysis 2025" — a nineteen-year strategic analysis (2006–2025) documenting repeated receipt of Operations Research (O.R.) intelligence by successive Irish governments and the systematic pattern of acknowledgement without activation. The analysis maps failures onto the contemporary Cabinet, identifies antinomic roles and double binds that produce paralysis, and sets out legal, institutional and operational remedies to restore epistemic integrity and institutional learning.
 
 Core outcome: Continued inaction is itself a deliberate policy choice with legal, moral and constitutional consequences. This project documents the evidence, the theory, and a staged roadmap for corrective action.
 
@@ -98,8 +99,40 @@ Primary legal avenues documented:
 - Misfeasance in public office and breach of fiduciary duty where supported by evidence of calculated omission.
 - Pre-litigation notice issued (September 2024); ADR offer made and not accepted.
 
-This repository contains the curated legal evidence map, timelines, and named documentary references supporting these avenues.
+---
 
+<a id="structural-reform"></a>
+## Structural Reform (3-12 Months)
+
+**Portfolio Restructuring:**
+
+**Transport/Climate Separation**
+
+ - New Department of Transport Infrastructure
+ - Climate/Environment remains strategic oversight
+ - O.R. methodology embedded in transport planning
+
+
+**Junior Ministry Rationalization**
+
+ - O'Donnell portfolio divided by domain
+ - Smyth AI portfolio receives technical support structure
+ - Dillon circular economy integrated with Enterprise
+
+
+**Protected Epistemic Corridors**
+
+ - Direct expert-to-Cabinet channel (statutory protection)
+ - Technical Advisory Council (independent)
+ - Feedback loop requirements in legislation
+
+### Legislative Changes:
+
+ - Amendment to Ministers and Secretaries Acts
+ - New accountability provisions
+ - Enhanced whistleblower protections for technical advisors
+
+---
 ---
 
 <a id="evidence-base"></a>
@@ -126,7 +159,8 @@ GitHub ecosystem (related repos):
 - Public Relations: https://github.com/dr-wojak/public-relations
 - Economic Oversight: https://github.com/dr-wojak/econ
 
-(Links above are provided by the author; see the repository's docs for precise folder lists and file manifests.)
+This repository contains the curated legal evidence map, timelines, and named documentary references supporting these avenues.  
+Links above are provided by the author; see the repository's docs for precise folder lists and file manifests.
 
 ---
 
