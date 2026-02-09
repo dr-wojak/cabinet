@@ -199,6 +199,18 @@ Links above are provided by the author; see the repository's docs for precise fo
 
 2026: This strategic mirror document (February 2)
 
+## Some Key Documents
+
+[Formal Complaint Annex IV – Compound Failure Modes and Institutional Double Binds](https://drive.google.com/file/d/1OS8IJbt2ZPH9KknZk3wHRzw_b6ekgmpQ/edit)
+
+[Memorandum B: On the Moral Mandate of Institutional Actors](https://drive.google.com/file/d/1v9J3IPRkw8n_f61VCJmqv0CpdhWUl0JO/edit)
+
+[Memorandum D: Systemic Governance Paralysis and the Emergence of Institutional Antinomy](https://drive.google.com/file/d/1g7l8gIlpIXDTdXr-gudQyoVuAwFT481Z/edit)
+
+[Memorandum E: Constitutional Ethics, Legal Doctrine, and the Governance Paralysis](https://drive.google.com/file/d/1UUYUZhn_rKTZABz2C0WYj5WeFzn6v2Jr/edit)
+
+[Comprehensive Survey of Operations Research Sub-Domains and Their Theoretical Foundations](https://drive.google.com/file/d/12-iu1YCS0MHZLmgIbVhpfMJoTkmP9yJq/edit)
+
 ## Theoretical References
 
 **Organizational Learning:**
