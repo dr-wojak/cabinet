@@ -161,7 +161,7 @@ Primary legal avenues documented:
 - Legal: https://github.com/dr-wojak/legal
 - Press: https://github.com/dr-wojak/press
 - Public Relations: https://github.com/dr-wojak/public-relations
-- Economic Oversight: https://github.com/dr-wojak/econ
+- Economic Research: https://github.com/dr-wojak/econ
 
 This repository contains the curated legal evidence map, timelines, and named documentary references supporting these avenues.  
 Links above are provided by the author; see the repository's docs for precise folder lists and file manifests.
