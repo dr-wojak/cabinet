@@ -80,17 +80,20 @@ To the Taoiseach, Tánaiste, Minister for Finance and all Cabinet ministers (sum
 These "Specific Demands" are mentioned several places and times, as is evidenced in the repository. Further explication will be provided in all 27 languages of the EU.  
 
 <details>
-> N.B. The translation work in ongoing
+> **N.B.** The translation work in ongoing
 
 <summary>Cabinet Focused Repository</summary>
 
 > **Le Miroir du Cabinet**  
-*Cabinet Focused Repositoris in all 27 EU Member State languages*
+*Cabinet Focused Repositories in all 27 EU Member State languages*
  * Strategic mapping of documented systemic failures onto the current Irish Cabinet structure
 
-🇮🇪 _Scáthán Rialachais an Rialtais — Anailís Straitéiseach_ : [scáthan-rialachais-rialtas](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
+🇫🇷 _Miroir de Gouvernance du Cabinet — Analyse Stratégique_ : [miroir-gouvernance-cabinet](https://github.com/dr-wojak/cabinet/miroir-gouvernance-cabinet.md)
 
-🇫🇷 _Miroir de Gouvernance du Cabinet — Analyse Stratégique_ : [miroir-gouvernance-cabinet](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
+---
+[TBD]
+
+🇮🇪 _Scáthán Rialachais an Rialtais — Anailís Straitéiseach_ : [scáthan-rialachais-rialtas](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
 
 🇧🇪 _Kabinetsspiegel — Strategische Bestuursanalyse (BE)_ : [kabinetspiegel-bestuursanalyse-BE](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
 
@@ -145,7 +148,6 @@ These "Specific Demands" are mentioned several places and times, as is evidenced
 🇪🇸 _Mirall del Gabinet — Anàlisi Estratègica de la Governança (CAT)_ : [mirall-gabinet-anàlisi-CAT](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
 
 </details>
----
 
 <a id="recommended-remedial-pathway"></a>
 ## Recommended remedial pathway (short / medium / long term)
