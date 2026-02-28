@@ -82,11 +82,11 @@ These "Specific Demands" are mentioned several places and times, as is evidenced
 <details>
 > N.B. The translation work in ongoing
 
-<summary>Cabinet Focused Repository</summary>
+<summary>Cabinet Focused</summary>
 
 > **Le Miroir du Cabinet**  
-*Cabinet Focused Repositories in all 27 EU Member State languages*
- * Strategic mapping of documented systemic failures onto the current Irish Cabinet structure
+*Cabinet Focused Repositories in all 27 EU Member State languages*  
+Strategic mapping of documented systemic failures onto the current Irish Cabinet structure
 
 🇫🇷 _Miroir de Gouvernance du Cabinet — Analyse Stratégique_ : [miroir-gouvernance-cabinet](https://github.com/dr-wojak/cabinet/blob/main/compendium/miroir-gouvernance-cabinet.md)
 
