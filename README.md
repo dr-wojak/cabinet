@@ -31,7 +31,7 @@ This repository hosts the "Cabinet Analysis 2025" repository: a nineteen-year st
 
 Core outcome: Continued inaction is itself a deliberate policy choice with legal, moral and constitutional consequences. This project documents the evidence, the theory, and a staged roadmap for corrective action.
 
-[The Compendium](https://github.com/dr-crunch/nullification-loops/blob/main/compendium.md) discusses the impasse from the point-of-view of various stakeholder. The OR survey can be adapted as a governance instrument across all EU states. 
+[The Compendium](https://github.com/dr-crunch/nullification-loops/blob/main/compendium.md) discusses the impasse from the point-of-view of various stakeholders. The OR survey can be adapted as a governance instrument across all EU states. 
 
 ---
 
