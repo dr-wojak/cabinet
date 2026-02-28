@@ -2,8 +2,8 @@
 
 The security review question is live and precise: Reg. 428/2009 (dual-use), security-as-pretext doctrine, Article 2 TEU, and the sovereignty question viz. Council oversight. The github repositories give a multilingual distribution architecture across all 27 member states.
 
-Version: 1.0  
-Date: 2026-02-02  
+Version: 1.1  
+Date: 2026-02-28  
 License: CC0 1.0 Universal (Public Domain)
 
 ---
