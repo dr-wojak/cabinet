@@ -302,3 +302,5 @@ Ce README reflète et distille l'analyse stratégique complète du « Miroir de 
 — Extrait de [l'Annexe IV : Modes de défaillance composés et doubles contraintes institutionnelles](https://drive.google.com/file/d/1OS8IJbt2ZPH9KknZk3wHRzw_b6ekgmpQ)
 
 Choisissez l'apprentissage plutôt que la dérive. Choisissez l'intégrité plutôt que le théâtre.
+
+↩ [*Dossier Juridique et Constitutionnel — Irlande*](https://github.com/dr-wojak/legal)
