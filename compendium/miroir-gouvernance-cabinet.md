@@ -17,7 +17,7 @@ Licence : CC0 1.0 Universel (Domaine Public)
 > | **Taoiseach** | *Tee-shokh* | **Premier ministre** | Chef du gouvernement ; préside le Cabinet ; nommé par le Président sur proposition du Dáil (Parlement) |
 > | **Tánaiste** | *Tawn-ish-teh* | **Vice-Premier ministre** | Adjoint constitutionnel du Taoiseach ; assure la continuité du gouvernement en son absence |
 > | **Dáil Éireann** | *Dawl Air-en* | **Assemblée nationale irlandaise** | Chambre basse du Parlement irlandais (*Oireachtas*) |
-> | **An tOireachtas** | *«On Tir-okh-tus»* | **Le Parlement** | Parlement bicaméral irlandais (Dáil + Sénat) |
+> | **An tOireachtas** | *On Tir-okh-tus* | **Le Parlement** | Parlement bicaméral irlandais (Dáil + Sénat) |
 >
 > Dans ce document, la convention adoptée est : **Taoiseach (Premier ministre)** et **Tánaiste (Vice-Premier ministre)** — afin de préserver la précision constitutionnelle tout en restant accessible au lecteur francophone.
 
