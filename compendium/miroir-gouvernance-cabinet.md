@@ -13,12 +13,12 @@ Licence : CC0 1.0 Universel (Domaine Public)
 >
 > L'Irlande dispose d'un système parlementaire dont certains titres constitutionnels n'ont pas d'équivalent direct dans la tradition républicaine française. Pour faciliter la lecture, chaque titre est accompagné de son équivalent fonctionnel en français :
 >
-> | Titre irlandais | Prononciation | Équivalent français | Rôle |
+> | Titre&nbsp;irlandais | Prononciation | Équivalent français | Rôle |
 > |---|---|---|---|
 > | **Taoiseach** | *Tee-shokh* | **Premier ministre** | Chef du gouvernement ; préside le Cabinet ; nommé par le Président sur proposition du Dáil (Parlement) |
 > | **Tánaiste** | *Tawn-ish-teh* | **Vice-Premier ministre** | Adjoint constitutionnel du Taoiseach ; assure la continuité du gouvernement en son absence |
 > | **Dáil Éireann** | *Dawl Air-en* | **Assemblée nationale irlandaise** | Chambre basse du Parlement irlandais (*Oireachtas*) |
-> | **An tOireachtas** | *On&nbsp;Tir&#x2011;okh&#x2011;tus* | **Le Parlement** | Parlement bicaméral irlandais (Dáil + Sénat) |
+> | **An&nbsp;tOireachtas** | *On&nbsp;Tir&#x2011;okh&#x2011;tus* | **Le Parlement** | Parlement bicaméral irlandais (Dáil + Sénat) |
 >
 > Dans ce document, la convention adoptée est : **Taoiseach (Premier ministre)** et **Tánaiste (Vice-Premier ministre)** — afin de préserver la précision constitutionnelle tout en restant accessible au lecteur francophone.
 
