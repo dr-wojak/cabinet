@@ -1,6 +1,6 @@
 # Cabinet Governance Mirror 2025
 
-The Compendium is the OR survey adapted as a governance instrument across all EU states. The security review question is live and precise: Reg. 428/2009 (dual-use), security-as-pretext doctrine, Article 2 TEU, and the sovereignty question viz. Council oversight. The github cabinet repository gives the multilingual distribution architecture across all 27 member states. Let me now write the definitive, named, foundationally structured bulletin.
+The security review question is live and precise: Reg. 428/2009 (dual-use), security-as-pretext doctrine, Article 2 TEU, and the sovereignty question viz. Council oversight. The github repositories give a multilingual distribution architecture across all 27 member states.
 
 Version: 1.0  
 Date: 2026-02-02  
