@@ -88,7 +88,7 @@ These "Specific Demands" are mentioned several places and times, as is evidenced
 *Cabinet Focused Repositories in all 27 EU Member State languages*
  * Strategic mapping of documented systemic failures onto the current Irish Cabinet structure
 
-🇫🇷 _Miroir de Gouvernance du Cabinet — Analyse Stratégique_ : [miroir-gouvernance-cabinet](https://github.com/dr-wojak/cabinet/miroir-gouvernance-cabinet.md)
+🇫🇷 _Miroir de Gouvernance du Cabinet — Analyse Stratégique_ : [miroir-gouvernance-cabinet](https://github.com/dr-wojak/cabinet/compendium/miroir-gouvernance-cabinet.md)
 
 ---
 [TBD]
