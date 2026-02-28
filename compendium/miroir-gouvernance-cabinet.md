@@ -1,4 +1,4 @@
-# Miroir de Gouvernance du Cabinet 2025
+# Miroir de Gouvernance du Cabinet Irlandais 2025
 
 La question de l'examen de sécurité est en cours et précise : Règlement 428/2009 (double usage), doctrine de la sécurité comme prétexte, Article 2 TUE, et la question de souveraineté vis-à-vis de la supervision du Conseil. Les dépôts GitHub fournissent une architecture de distribution multilingue à travers les 27 États membres.
 
