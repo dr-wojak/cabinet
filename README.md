@@ -31,6 +31,8 @@ This repository hosts the "Cabinet Analysis 2025" repository: a nineteen-year st
 
 Core outcome: Continued inaction is itself a deliberate policy choice with legal, moral and constitutional consequences. This project documents the evidence, the theory, and a staged roadmap for corrective action.
 
+[The Compendium](https://github.com/dr-crunch/nullification-loops/blob/main/compendium.md) discusses the impasse from the point-of-view of various stakeholder. The OR survey can be adapted as a governance instrument across all EU states. 
+
 ---
 
 <a id="core-thesis"></a>
@@ -248,7 +250,7 @@ To the current Irish Cabinet: You have inherited a system designed for drift. Yo
 
 The accountability is now mapped. The mirror is held up. The decision is yours. But understand this clearly: continued inaction is itself a choice, and it will be documented, analysed, and held to account —legally, historically, and democratically.
 
-The evidence is now public. The structures of accountability may be slow, but they are inexorable. Choose genuine governance over procedural performance. The time for choice is now.
+The evidence is now public. The structures of accountability may be slow, but they are inexorable. Choose genuine governance over procedural performance. The time for choice is now. 
 
 Contributions and issues:
 - If you wish to submit supporting material, open an Issue with a clear description and suggested evidence file. (Follow the repository's contribution guidelines.)
