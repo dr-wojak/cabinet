@@ -94,59 +94,32 @@ Strategic mapping of documented systemic failures onto the current Irish Cabinet
 [TBD]
 
 🇮🇪 _Scáthán Rialachais an Rialtais — Anailís Straitéiseach_ : [scáthan-rialachais-rialtas](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇧🇪 _Kabinetsspiegel — Strategische Bestuursanalyse (BE)_ : [kabinetspiegel-bestuursanalyse-BE](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇱🇺 _Kabinettsspiegel — Strategesch Verwaltungsanalyse_ : [kabinettsspiegel-verwaltung-LU](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇳🇱 _Kabinetsspiegel — Strategische Bestuursanalyse (NL)_ : [kabinetspiegel-bestuursanalyse-NL](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇩🇪 _Kabinettsspiegel — Strategische Regierungsanalyse_ : [kabinettsspiegel-regierungsanalyse](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇦🇹 _Kabinettsspiegel — Strategische Regierungsanalyse (AT)_ : [kabinettsspiegel-regierungsanalyse-AT](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇵🇱 _Lustro Gabinetowe — Strategiczna Analiza Rządzenia_ : [lustro-gabinetowe-analiza](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇨🇿 _Kabinetní Zrcadlo — Strategická Analýza Vládnutí_ : [kabinetní-zrcadlo-analýza](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇸🇰 _Kabinetné Zrkadlo — Strategická Analýza Vládnutia_ : [kabinetné-zrkadlo-analýza](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇭🇺 _Kabinettükör — Stratégiai Kormányzati Elemzés_ : [kabinettükör-kormányzati-elemzés](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇬🇷 _Κυβερνητικός Καθρέπτης — Στρατηγική Ανάλυση Διακυβέρνησης_ : [κυβερνητικός-καθρέπτης-ανάλυση](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇨🇾 _Κυβερνητικός Καθρέπτης — Στρατηγική Ανάλυση Διακυβέρνησης (CY)_ : [κυβερνητικός-καθρέπτης-ανάλυση-CY](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇧🇬 _Кабинетно Огледало — Стратегически Анализ на Управлението_ : [кабинетно-огледало-анализ](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇷🇴 _Oglinda Cabinetului — Analiză Strategică a Guvernării_ : [oglinda-cabinetului-analiză](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇭🇷 _Kabinetksko Zrcalo — Strateška Analiza Upravljanja_ : [kabinetsko-zrcalo-analiza](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇸🇮 _Kabinetsko Zrcalo — Strateška Analiza Upravljanja_ : [kabinetsko-zrcalo-upravljanje](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇪🇪 _Kabinetipeegel — Strateegiline Valitsemisanalüüs_ : [kabinetipeegel-valitsemisanalüüs](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇱🇻 _Kabineta Spogulis — Stratēģiskā Pārvaldības Analīze_ : [kabineta-spogulis-pārvaldība](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇱🇹 _Kabineto Veidrodis — Strateginė Valdymo Analizė_ : [kabineto-veidrodis-valdymo-analizė](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇮🇹 _Specchio del Gabinetto — Analisi Strategica della Governance_ : [specchio-gabinetto-analisi](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇪🇸 _Espejo del Gabinete — Análisis Estratégico de Gobernanza_ : [espejo-gabinete-análisis](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇵🇹 _Espelho do Gabinete — Análise Estratégica de Governança (PT)_ : [espelho-gabinete-análise-PT](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇲🇹 _Mera tal-Kabinett — Analiżi Strateġika tal-Governanza_ : [mera-kabinett-analiżi](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇫🇮 _Kabinettipeili — Strateginen Hallintoanalyysi_ : [kabinettipeili-hallintoanalyysi](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇸🇪 _Kabinettsspegel — Strategisk Förvaltningsanalys_ : [kabinettsspegel-förvaltningsanalys](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇩🇰 _Kabinetsspejl — Strategisk Forvaltningsanalyse_ : [kabinetsspejl-forvaltningsanalyse](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 🇪🇸 _Mirall del Gabinet — Anàlisi Estratègica de la Governança (CAT)_ : [mirall-gabinet-anàlisi-CAT](https://github.com/dr-crunch/cabinet-governance-mirror?tab=readme-ov-file#cabinet-governance-mirror)
-
 </details>
 
 <a id="recommended-remedial-pathway"></a>
