@@ -52,6 +52,8 @@ The Irish State has evolved a governance architecture that:
 
 This is not mere incompetence — it is governance by contradiction.
 
+[Compendium of Stakeholders](https://github.com/dr-crunch/nullification-loops/blob/main/compendium.md)
+
 ---
 
 <a id="key-findings"></a>
