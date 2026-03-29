@@ -1,0 +1,9 @@
+title: "Cabinet Governance Mirror 2025"
+description: "Strategic analysis of systemic governance failures in the Irish State"
+theme: minima
+baseurl: "/cabinet"
+url: "https://dr-wojak.github.io"
+
+# Optional: enable navigation
+header_pages:
+  - compendium.md
