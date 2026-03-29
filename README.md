@@ -1,3 +1,8 @@
+---
+layout: home
+title: Cabinet Governance Mirror 2025
+---
+
 # Cabinet Governance Mirror 2025
 
 The security review question is live and precise: Reg. 428/2009 (dual-use), security-as-pretext doctrine, Article 2 TEU, and the sovereignty question viz. Council oversight. The github repositories give a multilingual distribution architecture across all 27 member states.
